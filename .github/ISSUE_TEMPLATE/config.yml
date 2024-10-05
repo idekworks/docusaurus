@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: 生活issue template
     about: 生活関連のタスクを管理するためのissue template
-    url: https://github.com/idekworks/docusaurus/issues/new?template=life_template.md&projects=idekworks/projects/2?labels=生活
+    url: https://github.com/idekworks/docusaurus/issues/new?template=life_template.md&projects=idekworks/2?labels=生活
