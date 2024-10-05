@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 生活issue template
+  - name: 生活 template
     about: 生活関連のタスクを管理するためのissue template
     url: https://github.com/idekworks/docusaurus/issues/new?title=生活タスク&template=life_template.md&projects=idekworks/2&assignees=idekworks&labels=life
-  - name: 副業issue template
+  - name: 副業 template
     about: 副業関連のタスクを管理するためのissue template
     url: https://github.com/idekworks/docusaurus/issues/new?title=副業タスク&template=side_job_template.md&projects=idekworks/2&assignees=idekworks&labels=side_job
-  - name: 学習issue template
+  - name: 学習 template
     about: 学習関連のタスクを管理するためのissue template
     url: https://github.com/idekworks/docusaurus/issues/new?title=学習タスク&template=study_template.md&projects=idekworks/2&assignees=idekworks&labels=study
