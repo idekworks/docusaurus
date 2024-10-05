@@ -4,7 +4,7 @@ about: 生活関連のissueを作成するときに使用します
 title: "[DATE]: [FEATURE NAME]"
 labels: 生活
 assignees: idekworks
-projects: my_activity
+projects: https://github.com/users/idekworks/projects/2
 ---
 
 # 生活
