@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* スライドインするアニメーションを追加する */
+@keyframes slidein {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.anim-box.slidein.is-animated {
+  animation: slidein 1s ease-out;
+}
+
+.inner{
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
