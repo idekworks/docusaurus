@@ -1,12 +1,3 @@
----
-name: 生活 issue
-about: 生活関連のissueを作成するときに使用します
-title: "[DATE]: [FEATURE NAME]"
-labels: 生活
-assignees: idekworks
-projects: https://github.com/idekworks/docusaurus/issues/new?title=生活&projects=idekworks/2
----
-
 # 生活
 
 - [ ] 洗濯
